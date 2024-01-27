@@ -2149,12 +2149,12 @@
             "name" : "uniform_1001.001",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
-                    0.919352877512574196,
+                    0.049352877512574196,
                     0.01954570785164833,
                     0.020139344036579132,
                     1
                 ],
-                "metallicFactor" : 0.6590909123420715,
+                "metallicFactor" : 0.4590909123420715,
                 "roughnessFactor" : 0.9136363506317139
             }
         },
