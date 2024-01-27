@@ -2147,7 +2147,7 @@
                 "texCoord" : 0
             },
             "name" : "uniform_1001.001",
-            "pbrMetallicRoughness" : {
+             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.019352877512574196,
                     0.01954570785164833,
